@@ -11,10 +11,6 @@ Our team was tasked by the Munch Museum to employ Agile methodology in developin
 ## Status
 This application cannot be further developed due to the closure of the Munch case.
 
-## Collaborators
-Joachim
-Nicolay
-
 ## GRADE
 A
 ==
